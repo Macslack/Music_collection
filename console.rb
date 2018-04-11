@@ -11,7 +11,7 @@ artist_array = [
       }),
       artist2 = Artist.new(
         {
-          "name" => "americian football"
+          "name" =>
           }),
           artist3 = Artist.new(
             {
