@@ -11,7 +11,7 @@ artist_array = [
       }),
       artist2 = Artist.new(
         {
-          "name" =>
+          "name" =>"bob dyllan"
           }),
           artist3 = Artist.new(
             {
